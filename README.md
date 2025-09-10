@@ -1,1 +1,1 @@
-# JU_CSE
+Assignments encountered in my BE journey
